@@ -73,6 +73,10 @@ export default function Home(){
         <style jsx>{`
           h1{
               margin:20px;
+              color: blue;
+          }
+          div{
+            margin: 20px;
           }
         `}</style>
     </div>

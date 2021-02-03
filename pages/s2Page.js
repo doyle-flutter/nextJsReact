@@ -6,7 +6,11 @@ const s2Page = () => (
         <h1>SPage2</h1>
         <style jsx>{`
           h1{
-              margin:20px;
+            margin: 20px;
+            color: red;
+          }
+          div{
+            margin: 20px;
           }
         `}</style>
     </div>
